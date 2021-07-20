@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2015/06/nuspec.xsd">
+  <metadata>
+    <id>cmp-setup</id>
+    <version>1.0.2</version>
+    <packageSourceUrl>http://github.com/__REPLACE_YOUR_REPO__/cmp-setup</packageSourceUrl>
+    <owners>cmp</owners>
+    <title>cmp-setup (Install)</title>
+    <authors>[[authors]]</authors>
+    <projectUrl>https://_Software_Location_REMOVE_OR_FILL_OUT_</projectUrl>
+    <tags>cmp-setup portable SPACE_SEPARATED</tags>
+    <summary>[packagedesc]</summary>
+    <description>Generic</description>
+  </metadata>
+  <files>
+    <file src="tools\**" target="tools" />
+  </files>
+</package>

@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2015/06/nuspec.xsd">
+  <metadata>
+    <id>[[PackageNameLower]]</id>
+    <version>[[PackageVersion]]</version>
+    <packageSourceUrl>http://github.com/[[MaintainerRepo]]/[[PackageNameLower]]</packageSourceUrl>
+    <owners>[[MaintainerName]]</owners>
+    <title>[[PackageName]] (Install)</title>
+    <authors>[[authors]]</authors>
+    <projectUrl>https://_Software_Location_REMOVE_OR_FILL_OUT_</projectUrl>
+    <tags>[[PackageNameLower]] portable SPACE_SEPARATED</tags>
+    <summary>[packagedesc]</summary>
+    <description>[[AutomaticPackageNotesNuspec]]</description>
+  </metadata>
+  <files>
+    <file src="tools\**" target="tools" />
+  </files>
+</package>
